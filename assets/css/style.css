@@ -4,6 +4,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    
 }
 
 h1 {
@@ -185,7 +186,7 @@ h1.vertical-center {
 
 #testimonialsHero {
     min-height: 100vh;
-    background-image: url('../images/gallery/Drawing4-lg.jpg');
+    background-image: url('../images/gallery/Gallery10.jpeg');
     background-position: center 35%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -209,27 +210,27 @@ h1.vertical-center {
 }
 
 .hero-img-about {
-    background-image: url("../images/heros/heroabout.jpg");
+    background-image: url("../images/gallery/nujum.jpeg");
     background-position: center 35%;
 }
 
 .hero-img-pricing {
-    background-image: url("../images/heros/heropricing.jpg");
+    background-image: url("../images/gallery/fanaan.jpeg");
     background-position: center 60%;
 }
 
 .hero-img-order {
-    background-image: url("../images/heros/heroorder.jpg");
+    background-image: url("../images/gallery/fiiri.jpeg");
     background-position: center 55%;
 }
 
 .hero-img-contact {
-    background-image: url("../images/heros/herocontact.jpg");
+    background-image: url("../images/gallery/farxad.jpeg");
     background-position: center 35%;
 }
 
 .hero-img-gallery {
-    background-image: url("../images/heros/herogallery.jpg");
+    background-image: url("../images/gallery/heropricing.jpg");
     background-position: center 55%;
 }
 
