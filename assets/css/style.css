@@ -186,7 +186,7 @@ h1.vertical-center {
 
 #testimonialsHero {
     min-height: 100vh;
-    background-image: url('../images/gallery/Gallery10.jpeg');
+    background-image: url('../images/gallery/Paint/paint4.jpeg');
     background-position: center 35%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -210,7 +210,7 @@ h1.vertical-center {
 }
 
 .hero-img-about {
-    background-image: url("../images/gallery/nujum.jpeg");
+    background-image: url("../images/gallery/Paint/paint7.jpeg");
     background-position: center 35%;
 }
 
